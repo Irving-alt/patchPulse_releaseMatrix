@@ -1,0 +1,17 @@
+{
+  "release": "PP-2026.02",
+  "patches": [
+    {"id": "PCH-201", "component": "edge-router", "patch_type": "breaking", "risk": "high", "notes": "router API adjustments"},
+    {"id": "PCH-202", "component": "identity", "patch_type": "fix", "risk": "high", "notes": "token validation fix"},
+    {"id": "PCH-203", "component": "payments", "patch_type": "feature", "risk": "medium", "notes": "payment retries"},
+    {"id": "PCH-204", "component": "checkout", "patch_type": "fix", "risk": "low", "notes": "cart rounding"},
+    {"id": "PCH-205", "component": "inventory", "patch_type": "feature", "risk": "", "notes": "stock reconciliation"},
+    {"id": "PCH-206", "component": "search", "patch_type": "feature", "risk": "medium", "notes": "ranking tweak"},
+    {"id": "PCH-207", "component": "catalog", "patch_type": "fix", "risk": "low", "notes": "field validation"},
+    {"id": "PCH-208", "component": "notifier", "patch_type": "feature", "risk": "low", "notes": "template updates"},
+    {"id": "PCH-209", "component": "fraud", "patch_type": "breaking", "risk": "high", "notes": "scoring model update"},
+    {"id": "PCH-210", "component": "metrics", "patch_type": "fix", "risk": "medium", "notes": "aggregation fix"},
+    {"id": "PCH-211", "component": "payments", "patch_type": "breaking", "risk": "low", "notes": "schema bump"},
+    {"id": "PCH-212", "component": "checkout", "patch_type": "feature", "risk": "medium", "notes": "checkout hints"}
+  ]
+}
