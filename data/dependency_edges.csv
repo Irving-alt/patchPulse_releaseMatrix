@@ -1,0 +1,16 @@
+Dependent,Dependency,CriticalityWeight
+edge-router,identity,5
+edge-router,checkout,3
+edge-router,search,2
+edge-router,notifier,1
+checkout,payments,2
+checkout,inventory,2
+checkout,catalog,1
+payments,identity,2
+payments,fraud,3
+search,catalog,2
+search,metrics,1
+catalog,metrics,1
+inventory,metrics,1
+notifier,metrics,1
+fraud,metrics,2
