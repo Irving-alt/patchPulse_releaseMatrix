@@ -1,0 +1,21 @@
+IssueID,Component,Severity,Status,CreatedAt,Tags
+ISS-001,edge-router,P1,In Progress,2026-01-05,perf|latency
+ISS-002,edge-router,P2,Open,2026-01-28,docs
+ISS-003,identity,P0,Open,2026-01-10,security|auth
+ISS-004,identity,P1,Done,2026-01-12,cleanup
+ISS-005,payments,P1,Open,2026-01-15,payment
+ISS-006,payments,P2,In Progress,2026-01-20,observability
+ISS-007,checkout,P2,Done,2026-01-22,tests
+ISS-008,checkout,P1,Open,2026-01-18,bug
+ISS-009,inventory,P2,Open,2026-01-02,bug
+ISS-010,inventory,P2,In Progress,2026-01-03,bug
+ISS-011,search,P1,In Progress,2026-01-08,relevance
+ISS-012,search,P2,Open,2026-01-09,relevance
+ISS-013,catalog,P2,Open,2026-01-01,content
+ISS-014,notifier,P2,Open,2026-01-25,ux
+ISS-015,metrics,P1,Open,2026-01-04,data
+ISS-016,metrics,P2,Done,2026-01-06,data
+ISS-017,fraud,P0,In Progress,2026-01-14,security|fraud
+ISS-018,fraud,P2,Done,2026-01-13,cleanup
+ISS-019,payments,P1,Done,2026-01-05,cleanup
+ISS-020,catalog,P1,Done,2026-01-07,cleanup
